@@ -1,0 +1,6 @@
+{
+  "name": "Unknown",
+  "description": "An atmospheric horror experience with mysterious system alerts and notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
